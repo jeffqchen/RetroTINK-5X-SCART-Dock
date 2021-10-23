@@ -1,6 +1,6 @@
 # RetroTINK 5X SCART Dock
 
-Mike Chi's RetroTINK 5X Pro is a blessing to the entire retro-gaming community. However the SCART port on the 5X has its issue, not to mention that nobody has any love left for the SCART standard itself. Personally, I'm also a fan of vertical stands for my devices. So here's my approach to tackle the matters.
+Mike Chi's [RetroTINK 5X Pro](https://www.retrotink.com/product-page/5x-pro) is a blessing to the entire retro-gaming community. However the SCART port on the 5X has its issue, not to mention that nobody has any love left for the SCART standard itself. Personally, I'm also a fan of vertical stands for my devices. So here's my approach to tackle the matters.
 
 <img src="./VGA_Dock/Pics/01.jpg" width="400px" />
 
