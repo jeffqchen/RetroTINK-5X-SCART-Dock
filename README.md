@@ -10,17 +10,13 @@ This dock system puts the RetroTINK 5X into a vertical standing position. It tap
 
 There are two version of the dock. One that uses the standard BNC and 3.5mm audio headers, and the other that makes use of my [VGA RGBS + audio pinout standard](https://github.com/jeffqchen/Console-VGA-Dongle-Series).
 
-## VGA Dock
+## [VGA Dock](https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/blob/main/VGA_Dock/README.md)
 
 <img src="./VGA_Dock/Pics/01.jpg" width="200px" />
 
-- https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/VGA_Dock/
-
-## BNC Dock
+## [BNC Dock](https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/blob/main/BNC_Dock/README.md)
 
 <img src="./BNC_Dock/Pics/01.jpg" width="200px" />
-
-- https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/BNC_Dock/
 
 ------------
 
