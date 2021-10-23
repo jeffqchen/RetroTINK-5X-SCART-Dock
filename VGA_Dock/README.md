@@ -1,10 +1,7 @@
 # Building The RetroTINK 5X Pro VGA Dock
 
-<img src="./Pics/01.jpg" width="200px" />
-<img src="./Pics/02.jpg" width="200px" />
-<img src="./Pics/03.jpg" width="200px" />
-<img src="./Pics/04.jpg" width="200px" />
-<img src="./Pics/05.jpg" width="200px" />
+<img src="./Pics/01.jpg" width="200px" /><img src="./Pics/02.jpg" width="200px" /><img src="./Pics/03.jpg" width="200px" />
+<img src="./Pics/04.jpg" width="200px" /><img src="./Pics/05.jpg" width="200px" />
 
 -------
 
@@ -42,7 +39,7 @@ Print the models in their original orientations. Support is necessary for the ma
 
 If you are afraid of the sides of the 5X being scratched agains the dock, apply some electric tape on the inside helps.
 
-<img src="./Pics/09.jpg" width="200px" />
+<img src="./Pics/09.jpg" width="400px" />
 
 ---------
 
@@ -52,7 +49,7 @@ Solder in the SMD components first.
 
 Populate the 470 Ohm resistor regardless of the use case. I have tested that even if the signal was attenuated before, this double attenuation didn't mess things up. In the rare case when it does, short the jumper pads with solder to bypass the on-board attenuation.
 
-<img src="./Pics/13.jpg" width="200px" />
+<img src="./Pics/13.jpg" width="400px" />
 
 ---------
 
@@ -60,33 +57,33 @@ Populate the 470 Ohm resistor regardless of the use case. I have tested that eve
 
 Turn the main body piece upside down. Drop the VGA port and 3.5mm jack into the cavity, then secure them with the port spacer piece.
 
-<img src="./Pics/06.jpg" width="200px" />
+<img src="./Pics/06.jpg" width="400px" />
 
 Then, lay over the PCB on top of the ports, and secure the assembly with the M3x16mm screw and nut. Make sure you don't over tighten it or it will damage the plastic and/or the PCB.
 
-<img src="./Pics/07.jpg" width="200px" />
+<img src="./Pics/07.jpg" width="400px" />
 
 For the SCART plug, I suggest soldering color-coded wires before putting it into the main body. The pinout is as followed:
 
-<img src="../SCART_pinout.jpg" width="200px" />
+<img src="../SCART_pinout.jpg" width="400px" />
 
 Note: You can use any of the ground pins for ground. It makes minimal difference.
 
 Now, feed the SCART plug with wires attached through the opening. Note the cutout on the sides of the plug, and align them with the notches on the main body of the dock. Push the plug down into the main body.
 
-<img src="./Pics/10.jpg" width="200px" />
+<img src="./Pics/10.jpg" width="400px" />
 
 Then, push the SCART plug inwards, and then press in the printed  SCART stopper piece to secure the assembly.
 
-<img src="./Pics/11.jpg" width="200px" />
+<img src="./Pics/11.jpg" width="400px" />
 
 In the case if you need to remove the SCART plug, use the hole on the bottom side to poke out the SCART stoppper piece.
 
-<img src="./Pics/12.jpg" width="200px" />
+<img src="./Pics/12.jpg" width="400px" />
 
 At last, solder the wires to their respective pads on the PCB.
 
-<img src="./Pics/08.jpg" width="200px" />
+<img src="./Pics/08.jpg" width="400px" />
 
 You might want to protect the PCB with a piece of electric tape. But everything should be off the table regardless.
 
@@ -96,4 +93,5 @@ You might want to protect the PCB with a piece of electric tape. But everything 
 
 When docking the 5X, make sure to it line up correctly. If it wouldn't go in, it's probably not lined up right.
 
-<img src="./Pics/14.jpg" width="200px" />  &nbsp; <img src="./Pics/15.jpg" width="200px" />
+<img src="./Pics/14.jpg" width="400px" />
+<img src="./Pics/15.jpg" width="400px" />
