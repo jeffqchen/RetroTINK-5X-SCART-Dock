@@ -12,11 +12,11 @@ Please read the their respective instructions:
 
 <img src="./VGA_Dock/Pics/01.jpg" width="400px" />
 VGA Dock
-- https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/VGA_Dock/
+-
 
 <img src="./BNC_Dock/Pics/01.jpg" width="400px" />
 BNC Dock
-- https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/BNC_Dock/
+-
 
 ------------
 Special Thanks
