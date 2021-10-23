@@ -1,6 +1,9 @@
 # Building The RetroTINK 5X Pro VGA Dock
 
 <img src="./Pics/01.jpg" width="200px" /> <img src="./Pics/02.jpg" width="200px" /> <img src="./Pics/03.jpg" width="200px" />
+
+&nbsp;
+
 <img src="./Pics/04.jpg" width="200px" /> <img src="./Pics/05.jpg" width="200px" />
 
 -------
