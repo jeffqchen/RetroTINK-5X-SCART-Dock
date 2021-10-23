@@ -6,24 +6,27 @@ Mike Chi's RetroTINK 5X Pro is a blessing to the entire retro-gaming community. 
 
 This dock system puts the RetroTINK 5X into a vertical standing position. It taps into the SCART port, so RGBS + audio signals could be fed into the 5X, while providing extra stability.
 
+------------
+
 There are two version of the dock. One that uses the standard BNC and 3.5mm audio headers, and the other that makes use of my VGA RGBS + audio pinout standard.
 
 Please read the their respective instructions:
 
 <img src="./VGA_Dock/Pics/01.jpg" width="200px" />
 
-VGA Dock
+## VGA Dock
 
 - https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/VGA_Dock/
 
 <img src="./BNC_Dock/Pics/01.jpg" width="200px" />
 
-BNC Dock
+## BNC Dock
 
 - https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/BNC_Dock/
 
 ------------
-Special Thanks
+
+## Special Thanks
 
 Mike Chi, creator of the RetroTINK 5X. Helped me in various aspects of this project
 - Website: https://www.retrotink.com
