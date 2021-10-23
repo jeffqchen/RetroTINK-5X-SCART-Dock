@@ -53,6 +53,18 @@ Populate the 470 Ohm resistor regardless of the use case. I have tested that eve
 
 ---------
 
+## Preparing The SCART Plug
+
+For the SCART plug, I suggest soldering color-coded wires before putting it into the main body. Leave some length so you won't be constrained afterwards.
+
+The pinout is as followed:
+
+<img src="../SCART_pinout.jpg" width="400px" />
+
+Note: You can use any of the ground pins for ground. It makes minimal difference and there's no need to hook up all the grounds together, since they all merge right inside the 5X anyway.
+
+---------
+
 ## Assembly
 
 Turn the main body piece upside down. Drop the VGA port and 3.5mm jack into the cavity, then secure them with the port spacer piece.
@@ -63,17 +75,13 @@ Then, lay over the PCB on top of the ports, and secure the assembly with the M3x
 
 <img src="./Pics/07.jpg" width="400px" />
 
-For the SCART plug, I suggest soldering color-coded wires before putting it into the main body. The pinout is as followed:
+Now, feed the SCART plug through the opening on the main body with wires attached.
 
-<img src="../SCART_pinout.jpg" width="400px" />
-
-Note: You can use any of the ground pins for ground. It makes minimal difference.
-
-Now, feed the SCART plug with wires attached through the opening. Note the cutout on the sides of the plug, and align them with the notches on the main body of the dock. Push the plug down into the main body.
+Note the cutout on the sides of the SCART plug, and align them with the notches on the main body of the dock. Push the plug down into the main body.
 
 <img src="./Pics/10.jpg" width="400px" />
 
-Then, push the SCART plug inwards, and then press in the printed  SCART stopper piece to secure the assembly.
+Then, slide the SCART plug inwards, and then press in the printed  SCART stopper piece to secure the assembly.
 
 <img src="./Pics/11.jpg" width="400px" />
 
