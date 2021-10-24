@@ -54,8 +54,6 @@ The pinout is as followed:
 
 <img src="../SCART_pinout.jpg" width="600px" />
 
-Note: You can use any of the ground pins for ground. It makes minimal difference and there's no need to hook up all the grounds together, since they all merge right inside the 5X anyway.
-
 ---------
 
 ## Assembly
@@ -84,7 +82,7 @@ I suggest going in the R > G > B > S order so you don't have to remember.
 
 <img src="./Pics/04.jpg" width="600px" />
 
-If you wish to protect the bottom of the dock, you could consider printing the bottom piece for the dock.
+To protect the bottom of the dock, you could consider printing the bottom piece for the dock.
 
 --------
 

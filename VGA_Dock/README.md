@@ -1,12 +1,10 @@
-
+# Building The RetroTINK 5X Pro VGA Dock
 
 <img src="./Pics/01.jpg" width="200px" /> <img src="./Pics/02.jpg" width="200px" /> <img src="./Pics/03.jpg" width="200px" />
 
 &nbsp;
 
 <img src="./Pics/04.jpg" width="600px" /> <img src="./Pics/05.jpg" width="600px" />
-
-# Building The RetroTINK 5X Pro VGA Dock
 
 -------
 
@@ -21,7 +19,7 @@ PJ-325 3.5mm Audio Jack - 5 contacts, vertical design
 - https://www.aliexpress.com/item/1005002983859846.html
 - https://www.digikey.com/en/products/detail/cui-devices/SJ1-3535N/738696
 
-SMD Resistor 0603 470 Ohm, [2x] SMD Capacitor 10uF, 6.3V
+SMD Resistor 0603 470 Ohm, [2x] SMD Capacitor 0603 10uF, 6.3V
 - Buy from wherever you feel like (DigiKey, Mouser, Amazon, Aliexpress, eBay)
 
 PCB
@@ -90,7 +88,7 @@ Then, slide the SCART plug inwards, and then press in the printed  SCART stopper
 
 <img src="./Pics/11.jpg" width="600px" />
 
-In the case if you need to remove the SCART plug, use the hole on the bottom side to poke out the SCART stoppper piece.
+In case if you needed to remove the SCART plug, use the hole on the bottom side to poke out the SCART stoppper piece.
 
 <img src="./Pics/12.jpg" width="600px" />
 
