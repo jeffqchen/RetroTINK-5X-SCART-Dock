@@ -18,6 +18,8 @@ There are two version of the dock. One that uses the standard BNC and 3.5mm audi
 
 <img src="./VGA_Dock/Pics/04.jpg" width="600px" /> <img src="./VGA_Dock/Pics/05.jpg" width="600px" />
 
+-----------
+
 ## [Building The BNC Dock](https://github.com/jeffqchen/RetroTINK-5X-SCART-Dock/tree/main/BNC_Dock)
 
 <img src="./BNC_Dock/Pics/01.jpg" width="600px" />
