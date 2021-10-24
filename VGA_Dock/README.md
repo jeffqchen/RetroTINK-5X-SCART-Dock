@@ -1,14 +1,16 @@
-# Building The RetroTINK 5X Pro VGA Dock
+
 
 <img src="./Pics/01.jpg" width="200px" /> <img src="./Pics/02.jpg" width="200px" /> <img src="./Pics/03.jpg" width="200px" />
 
 &nbsp;
 
-<img src="./Pics/04.jpg" width="200px" /> <img src="./Pics/05.jpg" width="200px" />
+<img src="./Pics/04.jpg" width="600px" /> <img src="./Pics/05.jpg" width="600px" />
+
+# Building The RetroTINK 5X Pro VGA Dock
 
 -------
 
-Parts
+## Parts
 
 VGA Port Female - Slim
 
@@ -102,7 +104,7 @@ You might want to protect the PCB with a piece of electric tape. But everything 
 
 ## Docking
 
-When docking the 5X, make sure to it line up correctly. If it wouldn't go in, it's probably not lined up right.
+When docking the 5X, make sure to line it up correctly. If it wouldn't go in, it's probably not lined up right.
 
 <img src="./Pics/14.jpg" width="600px" />
 <img src="./Pics/15.jpg" width="600px" />

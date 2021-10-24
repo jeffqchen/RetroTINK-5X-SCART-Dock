@@ -1,26 +1,96 @@
-# RetroTINK 5X SCART Dock
+# Building The RetroTINK 5X Pro VGA Dock
 
-<img src="./VGA_Dock/Pics/01.jpg" width="400px" />
+<img src="./Pics/01.jpg" width="600px" />
 
-Mike Chi's RetroTINK 5X Pro is a blessing to the entire retro-gaming community. However the SCART port on the 5X has its issue, not to mention that nobody has any love left for the SCART itself. Personally, I'm also a fan of vertical stands for my devices. So here's my approach to tackle the matters.
+<img src="./Pics/02.jpg" width="300px" /> <img src="./Pics/03.jpg" width="300px" />
 
-This dock system puts the RetroTINK 5X into a vertical standing position. Tapping into the SCART port, so RGBS + audio signals could be fed into the 5X, while providing extra stability.
+&nbsp;
 
-There are two version of the dock. One that uses the standard BNC and 3.5mm audio headers, and the other that makes use of my VGA RGBS + audio pinout standard.
+<img src="./Pics/05.jpg" width="600px" />
 
-Please read the their respective instructions:
 
-<img src="./VGA_Dock/Pics/01.jpg" width="400px" />
-VGA Dock
--
+-------
 
-<img src="./BNC_Dock/Pics/01.jpg" width="400px" />
-BNC Dock
--
+## Parts
 
-------------
-Special Thanks
+[4x] BNC Headers, 75 Ohm, panel mount, solder cup (50 Ohm also works but not preferable)
 
-Mike Chi, creator of the RetroTINK 5X. Helped me in various aspects of this project
-- Website: https://www.retrotink.com
-- Twitter: https://twitter.com/retrotink2
+- https://www.aliexpress.com/item/32968492553.html
+- https://www.digikey.com/en/products/detail/amphenol-rf/112425/2627847
+- https://www.digikey.com/en/products/detail/amphenol-rf/31-221-RFX/100648
+
+
+3.5mm Audio Jack, panel mount
+
+- https://www.aliexpress.com/item/4000376217134.html
+- https://www.digikey.com/en/products/detail/tensility-international-corp/54-00081/7650216
+
+Resistor 470 Ohm 1/4W
+- Buy from wherever you feel like (DigiKey, Mouser, Amazon, Aliexpress, eBay)
+
+SCART Male Plug
+
+- https://www.aliexpress.com/item/4000577027139.html
+
+---------
+
+## 3D Printing
+
+Print the models in their original orientations. Support is necessary for the main body. 0.16mm or lower layer height is suggested for better aesthetic.
+
+The bottom piece is for protecting the innards of the dock. It's optional.
+
+If you are afraid of the sides of the 5X being scratched agains the dock, apply some electric tape on the inside helps.
+
+<img src="./Pics/09.jpg" width="600px" />
+
+---------
+
+## Preparing The SCART Plug
+
+For the SCART plug, I suggest soldering color-coded wires before putting it into the main body. Leave some length so you won't be constrained afterwards.
+
+The pinout is as followed:
+
+<img src="../SCART_pinout.jpg" width="600px" />
+
+Note: You can use any of the ground pins for ground. It makes minimal difference and there's no need to hook up all the grounds together, since they all merge right inside the 5X anyway.
+
+---------
+
+## Assembly
+
+Feed the SCART plug through the opening on the main body with wires attached.
+
+Note the cutout on the sides of the SCART plug, and align them with the notches on the main body of the dock. Push the plug down into the main body.
+
+<img src="./Pics/10.jpg" width="600px" />
+
+Then, slide the SCART plug inwards, and then press in the printed  SCART stopper piece to secure the assembly.
+
+<img src="./Pics/11.jpg" width="600px" />
+
+Fit all the BNC headers and the 3.5mm jack into the back of the main body.
+
+<img src="./Pics/07.jpg" width="600px" />
+
+At last, solder the wires to their respective BNC/audio jack.
+
+<img src="./Pics/08.jpg" width="600px" />
+
+Using a 470 Ohm resistor on the sync line is highly recommended. Add a piece of heat-shrink tube over the resistor for insulation.
+
+I suggest going in the R > G > B > S order so you don't have to remember.
+
+<img src="./Pics/04.jpg" width="600px" />
+
+If you wish to protect the bottom of the dock, you could consider printing the bottom piece for the dock.
+
+--------
+
+## Docking
+
+When docking the 5X, make sure to line it up correctly. If it wouldn't go in, it's probably not lined up right.
+
+<img src="./Pics/14.jpg" width="600px" />
+<img src="./Pics/15.jpg" width="600px" />
