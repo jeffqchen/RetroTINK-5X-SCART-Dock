@@ -30,6 +30,17 @@ There are two version of the dock. One that uses the standard BNC and 3.5mm audi
 
 <img src="./BNC_Dock/Pics/05.jpg" width="600px" />
 
+
+------------
+
+## Misc
+
+If you are bothered by the single LED inside the RetroTINK 5X, here is a 3D-printed light diffuser that fixes it.
+
+<img src="./diffuser.jpg" width="400px" />
+
+https://www.thingiverse.com/thing:4981210
+
 ------------
 
 ## Special Thanks
