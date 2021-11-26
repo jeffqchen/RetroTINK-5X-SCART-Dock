@@ -106,3 +106,12 @@ When docking the 5X, make sure to line it up correctly. If it wouldn't go in, it
 
 <img src="./Pics/14.jpg" width="600px" />
 <img src="./Pics/15.jpg" width="600px" />
+
+
+--------
+
+## "Universal" Attenuation Hack
+
+If your RT5X is frequently moved between TTL sync and attenuated sync device chains, you may use a 150 Ohm resistor for the on-board attenuation as a "universal" hack.
+
+The RT5X will be receiving a 1.5V Vp-p sync when connected to TTL-level sync (which is ok according to Mike), and around 0.28V to 0.4V Vp-p when connected to attenuated sync. None of these are optimal, but both seem to work. If it introduces too much issues, you can always revert to the original and standard 470 Ohm value.
