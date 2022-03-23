@@ -13,25 +13,14 @@
 
 ## Parts
 
-[4x] BNC Headers, 75 Ohm, panel mount, solder cup (50 Ohm also works but not preferable)
+- [4x] BNC Headers, 75 Ohm, panel mount, solder cup (50 Ohm also works but not preferable) - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/BNC%20Header/Panel%20Mount/Female/info.md)
 
-- https://www.aliexpress.com/item/32968492553.html
-- https://www.digikey.com/en/products/detail/amphenol-rf/112425/2627847
-- https://www.digikey.com/en/products/detail/amphenol-rf/31-221-RFX/100648
+- 3.5mm Audio Jack, panel mount - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Panel%20Mount/info.md)
 
+- SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
 
-3.5mm Audio Jack, panel mount
-
-- https://www.aliexpress.com/item/4000376217134.html
-- https://www.digikey.com/en/products/detail/tensility-international-corp/54-00081/7650216
-
-Resistor 470 Ohm 1/4W
-- Buy from wherever you feel like (DigiKey, Mouser, Amazon, Aliexpress, eBay)
-
-SCART Male Plug
-
-- https://www.aliexpress.com/item/4000577027139.html
-
+- Resistor 470 Ohm 1/4W
+  - Buy from wherever you feel like (DigiKey, Mouser, Amazon, Aliexpress, eBay)
 ---------
 
 ## 3D Printing

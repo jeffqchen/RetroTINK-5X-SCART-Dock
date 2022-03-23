@@ -10,29 +10,18 @@
 
 ## Parts
 
-VGA Port Female - Slim
+- [PCB](https://oshpark.com/shared_projects/VoWFgH5Z)
 
-- https://www.aliexpress.com/item/4000596805684.html
+- VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
-PJ-325 3.5mm Audio Jack - 5 contacts, vertical design
+- Vertical 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
-- https://www.aliexpress.com/item/1005002983859846.html
-- https://www.digikey.com/en/products/detail/cui-devices/SJ1-3535N/738696
+- SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
 
-SMD Resistor 0603 470 Ohm, [2x] SMD Capacitor 0603 10uF, 6.3V
-- Buy from wherever you feel like (DigiKey, Mouser, Amazon, Aliexpress, eBay)
+- [1x] M3x16mm Hex Screws and Nuts - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
-PCB
-
-- https://oshpark.com/shared_projects/VoWFgH5Z
-
-SCART Male Plug
-
-- https://www.aliexpress.com/item/4000577027139.html
-
-M3x16mm Hex Screws and Nuts
-
-- https://www.amazon.com/gp/product/B014OO5KQG
+- SMD Resistor 0603 470 Ohm, [2x] SMD Capacitor 0603 10uF, 6.3V
+  - Buy from wherever you feel like (DigiKey, Mouser, Amazon, Aliexpress, eBay)
 
 ---------
 
